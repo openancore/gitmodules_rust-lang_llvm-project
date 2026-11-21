@@ -1,0 +1,13 @@
+Submodule mirrored for openancore.
+
+parent: upstream_rust_1.81.0
+path: src/llvm-project
+gitmodules_url: https://github.com/rust-lang/llvm-project.git
+fetched_from: https://github.com/rust-lang/llvm-project.git
+commit: c54cff0e6e4d1a0d0a2df7c1ce3d96cdd554763e
+branch: landing-page
+fallback_from_github: false
+
+commit is the gitlink recorded on the parent's android-15.0.0_r36 branch.
+branch is the upstream HEAD branch at fetch time. The commit is pushed
+here as android-15.0.0_r36 whether or not it is that branch's tip.
